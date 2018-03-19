@@ -1,0 +1,1341 @@
+{
+	"owner": "1501755",
+	"lastUpdatedBy": "1501755",
+	"lastRevision": 1138292988,
+	"team": null,
+	"id": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62",
+	"name": "apisaifty dev",
+	"description": "",
+	"folders_order": [],
+	"order": [
+		"8a611e1c-dc27-da21-78ff-50b2e62053ba",
+		"0203f302-7330-9f95-1236-e40b72ea32d7",
+		"a8cc76aa-aa69-d180-6237-5081a68ebad7",
+		"3cb60e2a-176e-8477-e346-e2de5c8cea86",
+		"b714ff8c-0e00-4ada-2b17-d93d03abbc68",
+		"7d407459-30e6-7cd3-4be1-9b281151f0b1",
+		"225f3547-3652-236e-8820-9b7ca0d518eb",
+		"03426882-c7b0-f07a-d12e-0562cdc2e477",
+		"63fd4d31-31d7-481f-d07d-1447906e1945",
+		"40a7c680-6a1f-7cd0-4ba1-fc150e3ed0eb",
+		"7d706954-afa3-3597-c925-b5547e247b6f",
+		"52f9b8fe-9957-9baf-b965-2d50113a191f",
+		"ff0294a6-d954-dd41-44cb-6ac965c8aa4c",
+		"49fdecaf-0df6-133b-8c9c-196e85d0bbb1",
+		"8a32aafd-aa33-1a55-9c0a-8a91958cdb30",
+		"f3fc8cc5-27e1-6202-3627-859df9ae9261",
+		"03082705-57f8-5a92-47ae-08302b865669",
+		"309d9a93-8ed4-ed41-5723-3538d2b79f8a",
+		"ad3309ce-2fe8-09bf-677f-b44e61e2ec26",
+		"63850b50-39d2-9e7b-89f4-7b82afa773da",
+		"bf053862-b69e-5adc-189b-abadef512a59",
+		"bfeb594f-4adc-058a-14c7-f69725df4861",
+		"224d2a9b-0be7-8af6-5588-25e8b47afb23",
+		"47edbbd5-273c-998e-c67d-7f7f0b2c8dab",
+		"ac8b8c2c-5c83-7358-3c45-0f5230957488",
+		"47a9d34d-fd7e-9389-55b8-2082ec7c51c9",
+		"ab20127c-58a0-162c-2933-f4dbf3425952",
+		"96a7ee14-9033-5ac5-2685-a4a14827ade3",
+		"591fc575-7337-947b-a637-1540e53337de",
+		"fe1986da-b102-6893-402a-82f377a05f6a",
+		"2f86fd35-9797-5287-a020-480213245869",
+		"64f1916a-da18-a541-5b60-1ade88425b78",
+		"cfe435ce-2d63-0eaf-99b7-9012756515a8",
+		"13a83cd5-0ae5-bb2f-dc11-4f017369fbc3",
+		"bd7fdcd7-dbe3-4c49-d3fd-7cad627372f5",
+		"0f7e95a9-2c99-9c28-7f48-1dfe091ccf59",
+		"ed3dbf01-e7bd-9b3c-3df2-9ff161b7109d"
+	],
+	"requests": [
+		{
+			"folder": null,
+			"id": "0203f302-7330-9f95-1236-e40b72ea32d7",
+			"name": "[apisaifty][USERS][users(username)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "PARAMETERS\n\nusername:  string to compare with username. If the string is contained in username, show this user.",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/users/julio.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "03082705-57f8-5a92-47ae-08302b865669",
+			"name": "[apisaifty][HASHTAGS]hashtags][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/hashtags/hashtags.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "03426882-c7b0-f07a-d12e-0562cdc2e477",
+			"name": "[apisaifty][BREAKS]allbreaks][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/allbreaks/1/10.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "0f7e95a9-2c99-9c28-7f48-1dfe091ccf59",
+			"name": "[apisaifty][BREAKS]vote(breakId, vote)[dev]",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/vote/356/0.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "13a83cd5-0ae5-bb2f-dc11-4f017369fbc3",
+			"name": "[apisaifty][BREAKS]create[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "message",
+					"value": "Esto es un mensaje de prueba con foto. me menciono a mi mismo @julio. Aparte añado un #hashtag, menciono a otra  persona @gema78 y pongo un enlace enorme http://www.marca.com/futbol/primera-division/2017/02/20/58aafa7f268e3e270f8b46ff.html. Para finalizar menciono a alguien que no existe @histionike",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "picture",
+					"value": "IMG_20150426_143728.jpg",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/create.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "224d2a9b-0be7-8af6-5588-25e8b47afb23",
+			"name": "[apisaifty][USERS]follow(follower, followed)[dev]",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/follow/me/28.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "225f3547-3652-236e-8820-9b7ca0d518eb",
+			"name": "[apisaifty][USERS][pictures(userId)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "id: if you use 'me', get the user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/pictures/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "2f86fd35-9797-5287-a020-480213245869",
+			"name": "[apisaifty][USERS]up[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "motivo",
+					"value": "probando la baja de mi usuario",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/down.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "309d9a93-8ed4-ed41-5723-3538d2b79f8a",
+			"name": "[apisaifty][HASHTAGS]hashtag(id)[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/hashtags/hashtag/9.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "3cb60e2a-176e-8477-e346-e2de5c8cea86",
+			"name": "[apisaifty][USERS][userstopsas][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/userstopsas.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "40a7c680-6a1f-7cd0-4ba1-fc150e3ed0eb",
+			"name": "[apisaifty][BREAKS]break(Id)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/break/340.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "47a9d34d-fd7e-9389-55b8-2082ec7c51c9",
+			"name": "[apisaifty][USERS]createcoverpage[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "coverpage",
+					"value": "IMG_0416.JPG",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/createcoverpage.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "47edbbd5-273c-998e-c67d-7f7f0b2c8dab",
+			"name": "[apisaifty][USERS]unfollow(follower, followed)[dev]",
+			"dataMode": "params",
+			"data": null,
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/unfollow/me/28.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "49fdecaf-0df6-133b-8c9c-196e85d0bbb1",
+			"name": "[apisaifty][MESSAGES]conversation(userId)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/messages/conversation/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "52f9b8fe-9957-9baf-b965-2d50113a191f",
+			"name": "[apisaifty][MESSAGES]conversations(userId)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "userId: if you use 'me' return conversations of user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/messages/conversations/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "591fc575-7337-947b-a637-1540e53337de",
+			"name": "[apisaifty][USERS]unblock(userId)[dev]",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/unblock/179.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "63850b50-39d2-9e7b-89f4-7b82afa773da",
+			"name": "[apisaifty][USER][update][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "IDF",
+					"value": "0",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/update/1.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "63fd4d31-31d7-481f-d07d-1447906e1945",
+			"name": "[apisaifty][BREAKS]breaks(userIdOrText)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "userIdOrText: if you use 'me' return all breaks of user logged\nuserIdOrText: if you use user id return all breaks of user id\nuserIdOrText: if you use a string return all breaks that contain this string",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/breaks/1/10/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "64f1916a-da18-a541-5b60-1ade88425b78",
+			"name": "[apisaifty][USERS][report(userId)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "motivo",
+					"value": "este usuario hace spam",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/report/179.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "7d407459-30e6-7cd3-4be1-9b281151f0b1",
+			"name": "[apisaifty][USERS]followers(id)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": null,
+			"description": "id: if you use 'me', get the followers user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/followers/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "7d706954-afa3-3597-c925-b5547e247b6f",
+			"name": "[apisaifty][BREAKS]followed(id)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "id: if you use 'me' return followed of user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/followed/1/10/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "8a32aafd-aa33-1a55-9c0a-8a91958cdb30",
+			"name": "[apisaifty][NOTIFICATIONS]notifications(userId)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "userId: if you use 'me' return notifications user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/notifications/notifications/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "8a611e1c-dc27-da21-78ff-50b2e62053ba",
+			"name": "[apisaifty][USERS][allusers][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/allusers.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "96a7ee14-9033-5ac5-2685-a4a14827ade3",
+			"name": "[apisaifty][USERS]block(userId)[dev]",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/block/179.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "a8cc76aa-aa69-d180-6237-5081a68ebad7",
+			"name": "[apisaifty][USERS][user(id)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "id: if you use 'me', get the user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/user/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "ab20127c-58a0-162c-2933-f4dbf3425952",
+			"name": "[apisaifty][USERS]picture[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "picture",
+					"value": "IMG_20150426_143728.jpg",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/picture.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "ac8b8c2c-5c83-7358-3c45-0f5230957488",
+			"name": "[apisaifty][USERS]createavatar[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "avatar",
+					"value": "IMG_20150426_143728.jpg",
+					"type": "file",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/createavatar.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"id": "ad3309ce-2fe8-09bf-677f-b44e61e2ec26",
+			"headers": "",
+			"headerData": [],
+			"url": "{{url}}/users/login.json",
+			"folder": null,
+			"queryParams": [],
+			"preRequestScript": null,
+			"pathVariables": {},
+			"pathVariableData": [],
+			"method": "POST",
+			"data": [
+				{
+					"key": "email",
+					"value": "julioperezdecastro@cev.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "kalesi12",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "email",
+					"value": "infosaifty@gmail.com",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "password",
+					"value": "cev",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"dataMode": "params",
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1516203554533,
+			"name": "[apisaifty][USERS][login][dev]",
+			"description": "PARAMETERS\n\nemail: string\npassword: string\n\nRETURN\n\njson error 401\njson succe array[code, token]\n",
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "b714ff8c-0e00-4ada-2b17-d93d03abbc68",
+			"name": "[apisaifty][USERS]followed(id)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "id: if you use 'me', get the followed user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/users/followed/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "bd7fdcd7-dbe3-4c49-d3fd-7cad627372f5",
+			"name": "[apisaifty][BREAKS]delete(breakId)[dev]",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/breaks/delete/359.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "bf053862-b69e-5adc-189b-abadef512a59",
+			"name": "[apisaifty][USERS]create[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "Usuario",
+					"value": "juliopc",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Email",
+					"value": "juliopc86@gmail.com",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "password",
+					"value": "julio",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "Nombre",
+					"value": "julio",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Mostrar_Nombre",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Apellidos",
+					"value": "perez de castro",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Mostrar_Apellidos",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Ubicacion",
+					"value": "Madrid",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Mostrar_Ubicacion",
+					"value": "1",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Especificar",
+					"value": "Ciudadano",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Baja",
+					"value": "0",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				},
+				{
+					"key": "Baja_Motivo",
+					"value": "",
+					"description": "",
+					"type": "text",
+					"enabled": false
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/create.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "bfeb594f-4adc-058a-14c7-f69725df4861",
+			"name": "[apisaifty][USERS]delete[dev]",
+			"dataMode": "params",
+			"data": [],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/delete/179.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "cfe435ce-2d63-0eaf-99b7-9012756515a8",
+			"name": "[apisaifty][MESSAGES]create(idEmisor, idReceptor)[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "message",
+					"value": "probando api",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/messages/create/me/168.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "ed3dbf01-e7bd-9b3c-3df2-9ff161b7109d",
+			"name": "[apisaifty][NOTIFICATIONS]update(id)[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\nAuthorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/notifications/update/638.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "f3fc8cc5-27e1-6202-3627-859df9ae9261",
+			"name": "[apisaifty][NOTIFICATIONS]notification(id)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/notifications/notification/511.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "fe1986da-b102-6893-402a-82f377a05f6a",
+			"name": "[apisaifty][USERS]down[dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "motivo",
+					"value": "probando la baja de mi usuario",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n",
+			"method": "POST",
+			"pathVariables": {},
+			"url": "{{url}}/users/down.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		},
+		{
+			"folder": null,
+			"id": "ff0294a6-d954-dd41-44cb-6ac965c8aa4c",
+			"name": "[apisaifty][MESSAGES]usersWrote(userId)][dev]",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "score",
+					"value": "50",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"rawModeData": null,
+			"descriptionFormat": "html",
+			"description": "userId: if you use 'me' return conversations of user logged",
+			"headers": "Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk\n//Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU\n",
+			"method": "GET",
+			"pathVariables": {},
+			"url": "{{url}}/messages/userswrote/me.json",
+			"preRequestScript": null,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjEiLCJlbWFpbCI6InlhbGFjaEBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imp1bGlvIiwicGFzc3dvcmQiOiIkMnkkMTAkdW04Mm0ueW1qclZSRVU2encwVHN5ZURJNFBSS25vVEV4WGFHMENuMFlXU2dcL0VER01pMFkyIiwiQWN0aXZlIjoiMSJ9.VA5w8CzKIRsSm26RYfoasAv_0GvluklV2ppp6HxyHSk",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "Authorization",
+					"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE4NiIsImVtYWlsIjoia3Jpc2hhbmtzaGFybWEwOUBnbWFpbC5jb20iLCJ1c2VybmFtZSI6Imtrc3MiLCJwYXNzd29yZCI6IiQyeSQxMCQ0YXZDSVlCUW9LNllTQnNpVWpzZXVPMzdOZ0lVc08wU1VNd0lIU1NaVzk0Um9SSWpEZ0NubSIsIkFjdGl2ZSI6IjEifQ.UUketwr4GLZOZk3Dbqgfh41sSz3aD55FeX_xo30WHOU",
+					"description": "",
+					"enabled": false
+				}
+			],
+			"pathVariableData": [],
+			"collectionId": "d827a67e-e8d4-88a6-4da5-68a0d4e60c62"
+		}
+	]
+}
